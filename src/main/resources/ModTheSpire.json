@@ -1,0 +1,10 @@
+{
+  "modid": "alchemist",
+  "name": "The Alchemist",
+  "author_list": ["pvh"],
+  "description": "New character mod for Slay the Spire.",
+  "version": "0.1",
+  "sts_version": "02-16-2019",
+  "mts_version": "2.6.0",
+  "dependencies": ["basemod"]
+}
